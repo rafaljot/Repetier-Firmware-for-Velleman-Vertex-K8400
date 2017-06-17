@@ -11,6 +11,6 @@ https://www.repetier.com/firmware/v092/index.php
   Tools/Extruder 0/Resolution = 150.01
   Tools/Extruder 1/Resolution = 150.01
 3. Download full project
-4. overwrite userpins.h and userui.h files
+4. overwrite userpins.h and uiconfig.h files
 5. Open project in Arduino
 6. Flash your printer
